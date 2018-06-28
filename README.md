@@ -4,9 +4,16 @@
 تحويل الدولار الامريكي الى ريال سعودية والعكس
 
 اكواد php مفتوحة المصدر
+
 معاينة للاكواد
 
+
+طريقة كتابة العمولات
+
+
 <img src="https://c.top4top.net/p_908szg4y1.png">
+
+عملية التحويل
 
 <img src="https://d.top4top.net/p_908gy3kz2.png">
 
@@ -18,6 +25,6 @@
 في التوفيق
 لاتنسئ متابعتي على التويتر 
 
-<a href="https://twitter.com/a1iraqi"> تويتر من هان </a>
+<a href="https://twitter.com/a1iraqi"> تويتر من هنا </a>
 
 
